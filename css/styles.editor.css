@@ -1,0 +1,87 @@
+
+.node-element {
+  fill : violet;
+  rx : 5; 
+  ry : 5;
+  stroke : #555;
+  stroke-width : 2;
+} 
+
+.task-begin {
+  fill : #DCB0F0;
+  stroke : #555;
+  stroke-width : 2;
+} 
+
+.task-end {
+  fill : #DCB0F0;
+  stroke : #555;
+  stroke-width : 2;
+}
+
+.task-user {
+  fill : violet;
+  stroke : #555;
+  stroke-width : 2;
+}
+
+.task-auto {
+  fill : #DCB0F0;
+  stroke : #555;
+  stroke-width : 2;
+} 
+
+.connector-element {
+  r :10;
+  fill : white; 
+  stroke : #555; 
+  stroke-width : 2;
+}
+
+.selected {
+  fill: #9999FF;
+}
+
+.flow-back {
+  background-color: #EEEEEE; 
+  width; 1200px;
+  height: 500px; 
+  font-family: verdana, Helvetica, sans-serif;
+  font-size: 12px;
+  overflow: scroll;
+  border: 2px solid lightgrey;
+  border-radius: 4px;
+}
+
+.buttons-section {
+  font-size: 12px;
+}
+
+.textboxButtonSection {
+  height: 29.33px;
+  text-align: center;
+}
+
+.btn-letter-violet {
+  color : #7A00AF;
+} 
+
+.banner-top {
+    background-color: #bbb;
+}
+
+.banner-top-text {
+    text-transform: uppercase;
+    font-size: 11px;
+    font-weight: normal;
+    color: white;
+}
+
+.line-selected {  
+  stroke : #6666FF;
+  stroke-width : 5;
+}
+
+.dropdown-menu .divider {
+  margin: 3px 0;
+}

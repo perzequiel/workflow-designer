@@ -1,0 +1,38 @@
+.table {
+  background-color:#eee;
+}
+
+.thead-inverse{
+  color:#fff;background-color:#7A00AF;
+}
+
+.table-hover>tbody>tr:hover {
+  background-color: #E6E6F4;
+}
+
+.table>tbody>tr.active>td {
+    background-color: #E6E6F4;
+  }
+
+.table>tbody>tr.active:hover>td {
+    background-color: #DADAF2;
+  }
+.btn-letter-violet {
+  color : #7A00AF;
+}  
+
+.head-grid-wf {
+  font-family: Roboto,arial,sans-serif;
+  text-transform: uppercase;
+  font-size: 20px;
+  font-weight: normal;
+}
+
+.grid-container-wf {
+  height: 350px;
+}
+
+.jumbotron {
+    padding-top: 38px;
+    padding-bottom: 38px;
+}
